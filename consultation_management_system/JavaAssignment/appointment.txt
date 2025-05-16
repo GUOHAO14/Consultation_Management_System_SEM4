@@ -1,0 +1,6 @@
+3,TP076267,LC076267,2024,12,18,1500,1530,null,i like this lecture very much222,a good student ready leets go
+5,TP076267,LC076265,2024,12,20,1500,1530,null,i like this lecture very much333,a good student999
+6,TP076267,LC076267,2024,12,21,1500,1530,null,i like this lecture very much444,a good student888
+7,TP076267,LC076267,2024,12,22,1500,1530,accept,i like this lecture very much444,a good student888
+8,TP076267,LC076267,2024,12,23,1500,1530,waiting,i like this lecture very much444,a good student888
+9,TP076267,LC076267,2024,12,11,1000,1030,null,bad lec,dont be mean

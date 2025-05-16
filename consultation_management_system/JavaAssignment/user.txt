@@ -1,0 +1,6 @@
+TP076267,Khoo Guo Hao,k,guohao@mail.com,UCDF2307ICT
+LC076267,Khoo Guo Hao,k,lecturer@gmail.com,Psychology Assistant
+LC888888,KEE,Khoo123.,kee@gmail.com,teacher
+LC111222,KHOO,Khoo123.,guohao@gmail.com,teacher
+LC111333,KHOO,Khoo123.,guohaok@gmail.com,teacher
+LC111555,KHOO,Khoo123.,guohaakhoo@gmail.com,Assistanct Lecturer
