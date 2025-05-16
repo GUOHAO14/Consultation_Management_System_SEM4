@@ -1,8 +1,13 @@
 # Consultation Management System - Overview
-This Java project is an assignment for Object-Oriented Programming module in semester 4 of my diploma program at APU. This is a duo porject, and my collaborator is Kee Wen Yew. The assignment, which is titled "APU consultation management system", is developed using Apache Netbeans integrated developed environment (IDE). My team has made references to existing consultation booking systems such as APU's own ApSpace when creating the GUI and backend logic of the system. This includes strict validations in registration and login processes, decent-looking display of past and upcoming appointments, and a fluid consultation booking process. Other than that, lecturers are able to manage appointments and handle reschedule requests efficiently. Besides that, as per requirements requested, students and lecturers can leave their feedback and comments for after appointment sessions.
+This Java project is an assignment for Object-Oriented Programming module in semester 4 of my diploma program at APU. This is a duo project, and my collaborator is Kee Wen Yew. The assignment, which is titled "APU consultation management system", is developed using Apache Netbeans integrated developed environment (IDE). My team has made references to existing consultation booking systems such as APU's own ApSpace when creating the GUI and backend logic of the system. This includes strict validations in registration and login processes, decent-looking display of past and upcoming appointments, and a fluid consultation booking process. Other than that, lecturers are able to manage appointments and handle reschedule requests efficiently. Besides that, as per requirements requested, students and lecturers can leave their feedback and comments for after appointment sessions.
 
 Plus by using Apache Netbeans, the process of creating the program's GUI was a piece of cake. This is because the IDE provides drag-and-drop functionality for all sorts of GUI elements such as text labels, text fields, buttons, and so on. As a result, Apache Netbeans helped in removing the complexity of designing the system's GUI (much needed due to tight submission window, and as Java beginners). Therefore, the main benefit or learning outcome from this assignment is allowing my partner and I to enhance our understanding in OOP concepts (classes, inheritance, polymorphism, etc.), knowing Java syntax and comprehending the overall hefty process of working with JDK.
 
+---
+
+*Important: This repository is only intended solely for academic reference and personal learning. It should not be reused or resubmitted as original work under any circumstance. Unauthorized reproduction or misuse is strictly discouraged.*
+
+---
 
 # Project Assumption (And How It Works)
 1. Consultation is using a time-blocking system, where consultations are strictly scheduled in fixed 30-minute slots.
